@@ -1,5 +1,7 @@
 # find_the_stack3 (osint)
 
+A writeup for this problem can be found at https://www.signal-chief.com/2017/12/find_the_stack2/
+
 # Instructions to Contestant
 
 Once again, need to find the stack but this time, we're not looking for an address at all. Find the normal flag (acsc2017{######})
