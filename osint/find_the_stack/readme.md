@@ -7,6 +7,7 @@ Innovative Online Industries (IOI) is trying to figure out where Wade lives so t
 
 Note:  Enter the flag as acsc2017{<roadname>}.  Do not include the road description (rd, st, dr, etc)  
 
-# Solution:  If you view the exif data on the photo you will find the lat/long of where it was taken.  Put those into google maps and it will put the arrow on Oakdale Dr.
+# Solution:  
+If you view the exif data on the photo you will find the lat/long of where it was taken.  Put those into google maps and it will put the arrow on Oakdale Dr.
 
 # Flag acsc2017{Oakdale}
