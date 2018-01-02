@@ -1,5 +1,7 @@
 # find_the_stack (forensics/osint)
 
+A writeup for this problem can be found at https://www.signal-chief.com/2017/12/find_the_stack/
+
 # Instructions to contestant
 Innovative Online Industries (IOI) is trying to figure out where Wade lives so that they can make him an offer he can't refuse.  Unfortunately, the only real clue that they currently have is this photo that he posted on his profile.  What street does he live on?
 
